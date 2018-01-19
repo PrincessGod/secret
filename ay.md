@@ -62,3 +62,6 @@ firewall-cmd --zone=public --add-port=8388/tcp --permanent
 
 	echo "export PATH=$PATH:/usr/local/git/bin" >> /etc/bashrc
 	source /etc/bashrc # 实时生效
+	
+
+[SS-go](https://teddysun.com/392.html)
